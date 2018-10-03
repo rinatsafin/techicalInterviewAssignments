@@ -1,6 +1,8 @@
 # Techical Interview Assignments
 const mArr = [1, [2, [3, 4, 5, 6], [7, 8, 9, [10, [11], 12]]], 13, 14, 15, [[[[16], [[17, 18], 19]]]], 20, [21, [22, [23, [24, [25]]]]]];
+<br>
 const dArr = ["anna", "lena", "lena", "lena", "lena", "ivan", "anna", "lena", "petya", "petya", "vasya", "vasya", "vasya", "vasya", "vasya"];
+<br>
 const numArr = [1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 4, 5, 5, 6, 7, 8, 9, 9 , 9, 10];
 
 #### // что написал своими силами без гугла, аналогично вторая функция, без подсказок, но с debugg'om
